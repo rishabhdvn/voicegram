@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+
+# Python / Dependencies
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Build / Dist
+build/
+dist/
+*.exe
+
+# Editors/IDE
+.vscode/
+.idea/
+*.log
